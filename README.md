@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Goutham
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
-- 📫 How to reach me:gou250904@gmail.com
-- ⚡ Fun fact:Pain=Gain
+# Simple Website (No Docker)
 
-<!---
-GodGomzi/GodGomzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This static website is used to demonstrate Jenkins CI without Docker.
